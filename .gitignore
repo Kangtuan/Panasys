@@ -1,0 +1,11 @@
+*.o
+*.so
+*.d
+*vm
+*.out
+*.la
+*.buildinfo
+*.elf
+*.hex
+*.filters
+/v14
